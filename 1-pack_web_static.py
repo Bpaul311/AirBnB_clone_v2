@@ -7,7 +7,7 @@ from fabric.api import *
 from datetime import datetime
 
 
-def pack():
+def do_pack():
 
     """
     Making an archive on a web server
